@@ -8,7 +8,7 @@ An API Gateway acts as the **single entry point** for all client requests. Inste
 
 Spring Cloud Gateway provides **routing, filtering, security, monitoring, and load balancing** capabilities for microservices.
 
-This project is created to understand the **Gateway pattern and reactive request routing using Spring WebFlux**.
+This project is created to understand the Gateway pattern and reactive request routing using Spring WebFlux.
 
 ---
 
